@@ -24,7 +24,7 @@
                     </div>
                     <div class="row">
                         <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                            <label for="fullname" class="control-label">Founder tite</label>
+                            <label for="fullname" class="control-label">Founder Name</label>
                             <input type="text" name="fullname" id="fullname" class="form-control form-control-sm rounded-0" value="<?php echo isset($fullname) ? $fullname : ''; ?>"  autofocus required/>
                         </div>
                     </div>
